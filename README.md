@@ -16,9 +16,11 @@ Welcome to the Sudoku Solver project! This is a Python implementation of a Sudok
 Below is an example of a Sudoku puzzle before and after being solved:
 
 Before:
+![Puzzle before solving](https://github.com/user-attachments/assets/0413fb81-ee0e-4e20-b65f-8bcb34e1fa70)
 
 
 After:
+![Puzzle after solving](https://github.com/user-attachments/assets/888bc543-2486-46af-a603-d54002d57da3)
 
 
 ## 🧑‍💻 Code Overview
